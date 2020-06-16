@@ -13,11 +13,7 @@ data:
   APPDYNAMICS_CONTROLLER_PORT: "8090"
   APPDYNAMICS_CONTROLLER_SSL_ENABLED: "False"
   APPDYNAMICS_NETVIZ_AGENT_PORT: "3892"
-<<<<<<< HEAD
   ROOKOUT_LABELS: "env:rishikesh-radhakrishnan-se-days"
-=======
-  ROOKOUT_LABELS: "env:rishikesh-r-se-days"
->>>>>>> fc4eb33e3fbb6f7969ed01e27667671dccdddac2
   ROOKOUT_LOG_TO_STDERR: "True"
   ROOKOUT_DEBUG: "1"
   ROOKOUT_COMMIT: "True"
