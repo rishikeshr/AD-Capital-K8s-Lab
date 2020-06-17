@@ -23,7 +23,7 @@ spec:
       containers:
       - env:
         - name: DUMMY
-          value: "v06"
+          value: "v07"
         - name: APPDYNAMICS_AGENT_ACCOUNT_ACCESS_KEY
           valueFrom:
             secretKeyRef:
