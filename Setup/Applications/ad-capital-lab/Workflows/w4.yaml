@@ -45,7 +45,7 @@ phases:
         templateVariables: null
         templateVersion: null
         tierId: '14'
-        timeDuration: '10'
+        timeDuration: '5'
     stepsInParallel: false
   - type: K8S_PHASE_STEP
     name: Wrap Up
